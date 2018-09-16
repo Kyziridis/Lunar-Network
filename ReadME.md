@@ -31,7 +31,11 @@ The DQN.py uses either a ready model for training or it builds a new one. Under 
 
 The Naiv-NN.py it does not use any pretrained models. Under the folder "pretrain" you can find also some plots and some of the videos we monitored.
 
+For further information about the procedure you can read the `Lunar_Network.pdf` which reports the 
+ideas and the procedure behind the problem. It was part of a free-choice assignment for Neural-Networks master-course.
+<br>
 
+Enjoy!
 
 #### SUPPORT >_ GNU/Linux >_ Free Software Foundation
 
