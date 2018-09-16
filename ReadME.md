@@ -16,8 +16,8 @@
     # test that it worked 
     $ python >>> import gym >>> gym.make('LunarLander-v2')
 
-    # The above instructions are for linux systems and MacOS. 
-    # We do not use proprietary software so we do not have instructions for windows.  
+    # The above instructions are for linux systems. 
+    # We do not use proprietary software so we do not have instructions for Windows or MacOS.  
 ```
 You can visit [openAI gym](https://gym.openai.com/envs/#box2d) in order to inspect this 
 kind of environments.<br>	
