@@ -1,4 +1,4 @@
-# Lunar-Network-Lander-Network 
+# Lunar-Lander with Lunar-Network 
 
 ### OpenAI's gym module called Box2D game *Lunar-Lander*
 
